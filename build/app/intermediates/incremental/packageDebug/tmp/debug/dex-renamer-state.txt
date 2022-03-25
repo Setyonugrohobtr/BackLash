@@ -1,0 +1,4 @@
+#Mon Jan 17 10:00:24 ICT 2022
+base.0=D\:\\File Tugas\\KK3B\\flutter-bmi-calculator\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
